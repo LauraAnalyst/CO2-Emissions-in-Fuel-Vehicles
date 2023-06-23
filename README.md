@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html>
 
 <head>
@@ -9,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Group_3: Zhiqi Pang, Xintong Yu, Laura Assylgazhina, Cindy Dai" />
+<meta name="author" content="Data Analysis Contributors: Zhiqi Pang, Xintong Yu, Laura Assylgazhina, Cindy Dai" />
 
 <meta name="date" content="2023-06-16" />
 
